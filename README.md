@@ -3,12 +3,12 @@ Turtle Graphics
 
 All of the methods for this lab will be written in the TurtleGraphics.py file. In your main() function, you can uncomment one of the function calls. You only need to do one at a time but each of the given commands should work.
 
-## Importing to Repl.it
-There are two ways to bring your work into repl.it
-- Import from GitHub as normal.
-  - The downside is that the turtle graphics window is not as nice.
-- Make a new repl.it using Python (with turtle)
-  - You will then have to copy and paste the starter code into that repl.it
+## Using CodeHS
+There are two ways to work on this assignment.
+- Copy/paste the code from TurtleGraphics.py into a [Code HS](https://codehs.com/explore/sandbox/python) using the Python with Turtle option.
+  - Then when you are done, copy/paste back to your Github
+- Copy/paste into your computer's Python IDE
+  - Again you can copy/paste back to Github when you're done.
 
 
 ### drawPolygon(turtle, sides)
